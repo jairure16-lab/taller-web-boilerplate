@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Taller Web + IA
 
-## Getting Started
+Plantilla para un taller práctico: construir un sitio web real en vivo,
+usando Next.js, Tailwind y un agente de IA (Claude Code) como copiloto.
+Nada de teoría abstracta — cada paso se hace corriendo comandos y viendo el
+resultado en el navegador.
 
-First, run the development server:
+## Stack
+
+- [Next.js](https://nextjs.org) (App Router) + TypeScript
+- [Tailwind CSS](https://tailwindcss.com) para estilos
+- Sin dependencias de pago, sin API keys
+
+## Instalación
+
+Requiere [Node.js](https://nodejs.org) 18 o más reciente.
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abrí [http://localhost:3000](http://localhost:3000) — vas a ver el índice de
+pasos del taller.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Estructura del repo
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```
+00-antes-de-empezar/   → qué es un README, un .md, una skill, qué instalar
+01-fundamentos-next/   → páginas y componentes
+02-estilos-tailwind/   → cómo cambiar el diseño
+03-ia-en-el-flujo/     → el loop de un agente IA y cómo pedirle tareas
+src/app/               → el código real del sitio, se construye en vivo
+```
 
-## Learn More
+Cada carpeta numerada tiene su propio `README.md`. Léelo antes de tocar el
+código de ese paso — ahí está la explicación del concepto, no solo el "qué
+hacer".
 
-To learn more about Next.js, take a look at the following resources:
+## Cómo seguir el taller
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+1. Abrí `00-antes-de-empezar/README.md` y seguí los links de "Siguiente
+   paso" al final de cada archivo.
+2. La página de inicio (`src/app/page.tsx`) es el punto de partida: un
+   índice de los pasos. Se va reemplazando con el sitio real a medida que
+   avanza el taller.
+3. El Paso 3 es donde entra Claude Code en serio — ahí se ve el loop del
+   agente en acción, no solo explicado.
