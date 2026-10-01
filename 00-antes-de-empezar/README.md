@@ -24,8 +24,9 @@ ver una skill real en acción.
 
 ## Qué necesitas instalado
 
-- **Node.js** (v18 o más reciente) — corre `node -v` en la terminal para
-  verificar. Si no lo tenés, descargalo de [nodejs.org](https://nodejs.org).
+- **Node.js** (v20.9 o más reciente — ojo, no v18, Next.js 16 no corre ahí)
+  — corre `node -v` en la terminal para verificar. Si no lo tenés o tenés
+  una versión vieja, descargalo de [nodejs.org](https://nodejs.org).
 - Un editor de código (VS Code recomendado).
 - Nada de pago, nada de API keys para este taller.
 

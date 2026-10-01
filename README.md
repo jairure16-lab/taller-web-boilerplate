@@ -13,7 +13,8 @@ resultado en el navegador.
 
 ## Instalación
 
-Requiere [Node.js](https://nodejs.org) 18 o más reciente.
+Requiere [Node.js](https://nodejs.org) 20.9 o más reciente (Next.js 16 no
+corre en Node 18).
 
 ```bash
 npm install
