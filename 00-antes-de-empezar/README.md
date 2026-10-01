@@ -27,8 +27,20 @@ ver una skill real en acción.
 - **Node.js** (v20.9 o más reciente — ojo, no v18, Next.js 16 no corre ahí)
   — corre `node -v` en la terminal para verificar. Si no lo tenés o tenés
   una versión vieja, descargalo de [nodejs.org](https://nodejs.org).
-- Un editor de código (VS Code recomendado).
+- Un editor de código: **VS Code**, con la extensión de **GitHub Copilot**
+  instalada y tu cuenta de GitHub conectada.
 - Nada de pago, nada de API keys para este taller.
+
+## Antes de venir al taller (ahorra tiempo en sala)
+
+Si podés, hacé esto desde tu casa antes del día del taller:
+
+1. Instalá Node.js, VS Code y la extensión de Copilot (lo de arriba).
+2. Cloná este repo y corré `npm install` adentro.
+
+Si no llegaste a hacerlo, no pasa nada — se hace en el primer bloque del
+taller con ayuda del instructor, solo que te va a quedar menos tiempo libre
+en ese bloque.
 
 ## Siguiente paso
 
