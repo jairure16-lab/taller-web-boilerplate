@@ -44,5 +44,18 @@ hacer".
 2. La página de inicio (`src/app/page.tsx`) es el punto de partida: un
    índice de los pasos. Se va reemplazando con el sitio real a medida que
    avanza el taller.
-3. El Paso 3 es donde entra Claude Code en serio — ahí se ve el loop del
+3. El Paso 3 es donde entra Copilot en serio — ahí se ve el loop del
    agente en acción, no solo explicado.
+
+## Mapeo con el día del taller (90 min)
+
+| Bloque del día | Qué pasa | Carpeta |
+|---|---|---|
+| Instalación (15 min) | `npm install`, abrir el repo | — |
+| Fundamentos guiados (15 min) | Ejercicio en vivo a mano, con el instructor | `01-fundamentos-next/`, `02-estilos-tailwind/` |
+| Entrevista + referencia visual (15 min) | Copilot pregunta, pide la imagen de Pinterest | `03-ia-en-el-flujo/` |
+| Construcción individual (30 min) | Copilot construye, narrando el loop | `03-ia-en-el-flujo/` |
+| Cierre (15 min) | Demo de `sunday-agents-control` | — |
+
+`00-antes-de-empezar/` se da por leído antes del taller (requisito previo),
+no ocupa bloque de tiempo en sala.

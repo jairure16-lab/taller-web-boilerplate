@@ -12,10 +12,12 @@ hacéme preguntas UNA POR VEZ hasta tener claro:
    referencia de Pinterest, analizála y decime qué colores, tipografía y
    estructura ves antes de seguir.
 
-Cuando ya tengas suficiente, decime "con esto ya puedo arrancar" y recién
-ahí empezá a construir. Mientras construís, explicame en una línea qué
-estás haciendo en cada paso (qué archivo tocás, qué comando corrés, si
-algo falló y cómo lo corregiste) — quiero ver el loop completo, no solo el
+Cuando ya tengas suficiente, decime "con esto ya puedo arrancar". Antes de
+arrancar, y antes de cada paso grande durante la construcción, preguntame
+primero: "¿qué archivo creés que tengo que tocar para esto?" — esperá mi
+respuesta, decime si acerté o no, y recién ahí ejecutá. Después explicame en
+una línea qué hiciste (qué archivo tocaste, qué comando corriste, si algo
+falló y cómo lo corregiste) — quiero ver el loop completo, no solo el
 resultado final.
 ```
 
