@@ -12,6 +12,10 @@ hacéme preguntas UNA POR VEZ hasta tener claro:
    referencia de Pinterest, analizála y decime qué colores, tipografía y
    estructura ves antes de seguir.
 
+No instales dependencias nuevas — usá solo lo que ya está en el proyecto
+(Next.js + Tailwind). Nada de librerías de UI, iconos o animación nuevas,
+aunque te parezcan una buena idea para el diseño.
+
 Cuando ya tengas suficiente, decime "con esto ya puedo arrancar". Antes de
 arrancar, y antes de cada paso grande durante la construcción, preguntame
 primero: "¿qué archivo creés que tengo que tocar para esto?" — esperá mi

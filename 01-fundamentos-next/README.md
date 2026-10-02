@@ -31,10 +31,20 @@ function Saludo({ nombre }: { nombre: string }) {
 
 y usarlo dentro de otro componente como `<Saludo nombre="Jair" />`.
 
+Importante: `Saludo` se declara **afuera** de `Home`, al mismo nivel (no
+adentro de la función `Home`). Si lo declarás adentro, React se queja
+("Cannot create components during render") porque lo recrea en cada
+render — error común al copiar este patrón por primera vez.
+
 ## Ejercicio en vivo
 
-Agregá un componente `Tarjeta` que reciba un título y una descripción, y
-mostralo dos veces en la página de inicio con datos distintos.
+Agregá un componente `Tarjeta` (afuera de `Home`, igual que `Saludo` arriba)
+que reciba un título y una descripción, y mostralo dos veces en la página de
+inicio con datos distintos.
+
+No borres el índice de pasos que ya está en `page.tsx` — agregá las dos
+`Tarjeta` debajo del `</ol>` que ya existe, como una sección nueva. El
+índice se queda; esto es una sección aparte, no un reemplazo.
 
 ## Siguiente paso
 

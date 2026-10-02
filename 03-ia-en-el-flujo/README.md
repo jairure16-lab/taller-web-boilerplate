@@ -21,10 +21,16 @@ loop solo, vos solo revisás el resultado final.
 
 ## Construí el tuyo
 
-Abrí VS Code con GitHub Copilot en modo agente y usá el prompt de
-[`prompt-inicial.md`](prompt-inicial.md) — te entrevista, te pide tu
-referencia de Pinterest, y construye tu sitio mientras explica cada paso
-del loop.
+Abrí el panel de chat de Copilot en VS Code y cambiá el modo de "Ask" a
+**"Agent"** (el selector está arriba del cuadro de texto del chat). Sin
+este cambio, Copilot solo responde texto — no toca archivos ni corre
+comandos.
+
+Pegá el prompt de [`prompt-inicial.md`](prompt-inicial.md) en el chat (sin
+las comillas de código ```, solo el texto de adentro), adjuntá tu imagen
+de referencia con el botón de clip o arrastrándola al chat, y enviá. El
+agente te entrevista, analiza la imagen, y construye tu sitio mientras
+explica cada paso del loop.
 
 ## Qué es una skill, en la práctica
 

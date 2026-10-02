@@ -37,6 +37,9 @@ Si podés, hacé esto desde tu casa antes del día del taller:
 
 1. Instalá Node.js, VS Code y la extensión de Copilot (lo de arriba).
 2. Cloná este repo y corré `npm install` adentro.
+3. Buscá y guardá una imagen de referencia (Pinterest u otra fuente) del
+   estilo visual que te gustaría para tu sitio — la vas a necesitar en el
+   Paso 3, el agente te la va a pedir.
 
 Si no llegaste a hacerlo, no pasa nada — se hace en el primer bloque del
 taller con ayuda del instructor, solo que te va a quedar menos tiempo libre
