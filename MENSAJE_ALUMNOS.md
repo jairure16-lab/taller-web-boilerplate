@@ -22,7 +22,7 @@ Vas a construir un sitio web propio dirigiendo a una inteligencia artificial. No
 Lo que debes traer: tu laptop con cargador.
 
 Antes del día hay que dejar una lista lista (Node, VS Code, una cuenta de GitHub, una imagen de referencia). Tarda 45-60 min y pesa unos 300 MB de descarga, mejor con wifi:
-https://github.com/jairure16-lab/taller-web-boilerplate/blob/main/PREWORK.md
+https://github.com/jairure16-lab/taller-web-boilerplate/blob/master/PREWORK.md
 
 Cuando termines, manda una captura a Jair o a Alannis. Si algo no te sale, escríbenos y te ayudamos.
 ```
@@ -35,7 +35,7 @@ Cuando termines, manda una captura a Jair o a Alannis. Si algo no te sale, escr�
 Recordatorio: el taller "Construye tu sitio web con IA" es el jueves 15 de octubre, a las [a completar], en [a completar].
 
 Hoy es el último día para mandarnos la captura de tu lista (node, localhost:3000, Copilot en modo Agent y tu imagen de referencia):
-https://github.com/jairure16-lab/taller-web-boilerplate/blob/main/PREWORK.md
+https://github.com/jairure16-lab/taller-web-boilerplate/blob/master/PREWORK.md
 
 Si algo no te sale, escríbenos hoy y lo resolvemos antes del jueves. No olvides tu laptop con cargador.
 ```
