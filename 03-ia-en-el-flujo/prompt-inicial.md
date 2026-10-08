@@ -1,44 +1,16 @@
-# Prompt inicial — pegalo en el chat de Copilot (modo agente)
+Quiero construir mi sitio web a partir de este repo. Tenemos 1 h 45 min en total y unos 45 minutos de construcción, así que sé eficiente: pocos mensajes y un paso a la vez. Responde siempre en español.
 
-Copiá este bloque completo en el chat, agregá tu imagen de referencia de
-Pinterest, y enviá.
+PASO 1: ENTREVISTA (en UN solo mensaje)
+Antes de tocar código, hazme como máximo 4 preguntas, todas juntas en un único mensaje, para que yo las responda de una vez:
+1. ¿Para quién es el sitio y qué problema resuelve?
+2. ¿Cuáles son las 2 o 3 secciones que necesita? (máximo 3, esto es un taller corto)
+3. ¿Qué tono o estilo busco? (te adjunto una imagen de referencia)
+4. ¿Qué texto o nombre real quiero que aparezca? (si no sé, propón uno tú)
 
-```
-Quiero construir mi sitio a partir de este repo. Antes de tocar código,
-hacéme preguntas UNA POR VEZ hasta tener claro:
-1. Para quién es el sitio y qué problema resuelve.
-2. Qué secciones necesita (máximo 4, esto es un taller de 90 minutos).
-3. Qué tono/estilo visual busco — te voy a adjuntar una imagen de
-   referencia de Pinterest, analizála y decime qué colores, tipografía y
-   estructura ves antes de seguir.
+Analiza mi imagen de referencia y dime en pocas líneas qué colores, tipografía y estructura ves. Si no puedes ver la imagen, dímelo y te la describo con texto.
 
-No instales dependencias nuevas — usá solo lo que ya está en el proyecto
-(Next.js + Tailwind). Nada de librerías de UI, iconos o animación nuevas,
-aunque te parezcan una buena idea para el diseño.
+PASO 2: PLAN CORTO
+Con mis respuestas, dime en un solo mensaje el plan: qué secciones vas a crear y qué archivos vas a tocar. Si estoy de acuerdo, arranca. No me hagas más preguntas después de esto, salvo que un cambio sea grande (por ejemplo, borrar o reescribir un archivo existente); en ese caso pregúntame "¿qué archivo crees que hay que tocar?", espera mi respuesta, dime si acerté, y ahí ejecuta.
 
-Cuando ya tengas suficiente, decime "con esto ya puedo arrancar". Antes de
-arrancar, y antes de cada paso grande durante la construcción, preguntame
-primero: "¿qué archivo creés que tengo que tocar para esto?" — esperá mi
-respuesta, decime si acerté o no, y recién ahí ejecutá. Después explicame en
-una línea qué hiciste (qué archivo tocaste, qué comando corriste, si algo
-falló y cómo lo corregiste) — quiero ver el loop completo, no solo el
-resultado final.
-```
-
-## Qué vas a ver pasar
-
-El agente va a repetir este ciclo en voz alta, no en silencio:
-
-```
-LEE tu respuesta → PLANEA qué archivo tocar → EJECUTA el cambio →
-REVISA si compila → si falló, lo CORRIGE y vuelve a revisar → sigue con lo
-siguiente
-```
-
-Ese es el mismo loop que se explicó arriba en este README — ahora lo estás
-viendo correr en tu propio proyecto.
-
-## Si el agente se traba
-
-Si compila con error y no se corrige solo después de 2-3 intentos, avisale
-a Alannis o a Jair — no sigas insistiendo con el mismo prompt.
+PASO 3: CONSTRUCCIÓN
+Construye las secciones una por una. No instales dependencias nuevas: usa solo lo que ya está en el proyecto (Next.js + Tailwind), sin librerías de UI, iconos ni animación. No edites AGENTS.md. Antes de tocar código de Next, lee node_modules/next/dist/docs/ porque esta versión tiene cambios. Después de cada sección, explícame en una línea qué archivo tocaste, qué comando corriste, si algo falló y cómo lo corregiste, para que yo vea el loop completo. Termina verificando que el sitio corre en localhost:3000, aunque quede incompleto: que corra es más importante que que quede perfecto.
