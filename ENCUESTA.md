@@ -90,9 +90,23 @@ Redacción exacta (la misma que la pre):
 
 ---
 
+## Contacto para seguir en comunicación (opcional, con consentimiento)
+
+**Contacto (opcional) · Respuesta corta**
+> Si quieres que Ratio te escriba con novedades de talleres y recursos, deja tu correo o WhatsApp.
+
+**Consentimiento (obligatorio si dejaste contacto) · Casilla**
+> Acepto que Ratio use este dato solo para contactarme sobre talleres y recursos. Puedo pedir que lo borren cuando quiera.
+
+> Si lo dejas en blanco, ignora esta sección. No afecta nada del taller.
+
+Nota para Jair: el formulario y sus respuestas deben vivir en una cuenta de Ratio. Usa estos datos solo para lo que dice el consentimiento y borra a quien lo pida.
+
+---
+
 ## Configuración sugerida en Google Forms
 
 - Dejar "Limitar a 1 respuesta" **desactivado** (algunos alumnos comparten laptop o cuenta); el nombre sirve para emparejar.
-- No pedir correo electrónico.
+- No pedir correo electrónico obligatorio. El contacto es un campo aparte, opcional y con consentimiento (ver abajo).
 - Mensaje de confirmación: "Gracias. Tus respuestas nos ayudan a mejorar el taller."
 - Revisión: contar cuántos alumnos suben su número de la pre a la post y cuánto. Es el dato principal del piloto.

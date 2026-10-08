@@ -2,7 +2,7 @@
 
 **Taller:** Construye tu sitio web con IA
 **Fecha:** jueves 15 de octubre de 2026
-**Hora y lugar:** [a completar]
+**Hora y lugar:** 1:45 pm a 3:30 pm, ADEN University Panamá, Salón Nro 2
 **Duración:** 1 h 45 min · **Costo:** gratis · **Cupos:** 5
 
 Si haces esta lista antes del jueves, en sala vas a dedicar casi todo el tiempo a construir tu sitio. Si algo no te sale, no te preocupes: escríbele a Jair o a Alannis con la captura del error y te ayudamos. Si el problema persiste, el [plan B](PLAN_B.md) cubre el taller igual.
@@ -126,3 +126,14 @@ Escríbenos con la captura del error. Aunque llegues al taller con parte pendien
 Al llegar al taller, trae tu **laptop con cargador**.
 
 Documentos relacionados: [Agenda](AGENDA.md) · [Rúbrica](RUBRICA.md) · [Solución de problemas](SOLUCION_DE_PROBLEMAS.md)
+
+---
+
+## Notas para Mac
+
+- **Node:** descarga el instalador de macOS desde [nodejs.org](https://nodejs.org) (versión LTS 20.9 o más reciente); sirve para chips Apple (M1/M2/M3...) e Intel. Después **cierra y vuelve a abrir la Terminal** y corre `node -v`.
+- **Terminal:** `Cmd + Espacio`, escribe "Terminal". En Mac moderno la terminal usa `zsh`; los comandos de este documento funcionan igual.
+- **Instalación bloqueada por macOS:** si dice "no se puede abrir porque es de un desarrollador no identificado", ve a Ajustes del Sistema > Privacidad y seguridad y pulsa "Abrir de todos modos".
+- **Carpetas con iCloud:** evita clonar el repo en Escritorio o Documentos si tienes iCloud Drive activado; usa una carpeta como `~/proyectos`.
+- **Contraseña de administrador:** la instalación de Node la pide. Ten la tuya a mano.
+- **Si algo falla en tu Mac**, repite el paso con calma y escríbenos con la captura del error.

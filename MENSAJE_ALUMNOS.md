@@ -13,8 +13,8 @@ Hola. Te invitamos a un taller gratis:
 
 *Construye tu sitio web con IA*
 Jueves 15 de octubre de 2026
-Hora: [a completar]
-Lugar: [a completar]
+Hora: 1:45 pm a 3:30 pm
+Lugar: ADEN University Panamá, Salón Nro 2
 Duración: 1 h 45 min · Solo 5 cupos
 
 Vas a construir un sitio web propio dirigiendo a una inteligencia artificial. No necesitas saber programar.
@@ -32,7 +32,7 @@ Cuando termines, guarda una captura de pantalla para enseñarla al llegar; no ha
 ## 2. Recordatorio, 2 días antes (martes 13 de octubre)
 
 ```
-Recordatorio: el taller "Construye tu sitio web con IA" es el jueves 15 de octubre, a las [a completar], en [a completar].
+Recordatorio: el taller "Construye tu sitio web con IA" es el jueves 15 de octubre, a la 1:45 pm, en el Salón Nro 2 de ADEN University Panamá.
 
 Repasa tu lista (node, localhost:3000, Copilot en modo Agent y tu imagen de referencia) y ten lista una captura para enseñarla al llegar; no hace falta enviarnos nada antes:
 https://github.com/jairure16-lab/taller-web-boilerplate/blob/master/PREWORK.md
