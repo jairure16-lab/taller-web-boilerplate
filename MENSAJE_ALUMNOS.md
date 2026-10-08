@@ -2,7 +2,7 @@
 
 Para que la profesora Maribel los reenvíe. Tuteo, cortos, listos para pegar.
 
-> **Nota para Jair:** el enlace a `PREWORK.md` de abajo solo funciona cuando la rama `prep-taller-2026-10-15` se haga merge a `main` en `jairure16-lab/taller-web-boilerplate`. Antes de enviar el mensaje, confirma que el enlace abre. Completa también hora y lugar.
+> **Nota para Jair:** el enlace a `PREWORK.md` de abajo solo funciona cuando la rama `prep-taller-2026-10-15` se haga merge a `master` en `jairure16-lab/taller-web-boilerplate`. Antes de enviar el mensaje, confirma que el enlace abre. Completa también hora y lugar.
 
 ---
 
@@ -24,7 +24,7 @@ Lo que debes traer: tu laptop con cargador.
 Antes del día hay que dejar una lista lista (Node, VS Code, una cuenta de GitHub, una imagen de referencia). Tarda 45-60 min y pesa unos 300 MB de descarga, mejor con wifi:
 https://github.com/jairure16-lab/taller-web-boilerplate/blob/master/PREWORK.md
 
-Cuando termines, manda una captura a Jair o a Alannis. Si algo no te sale, escríbenos y te ayudamos.
+Cuando termines, guarda una captura de pantalla para enseñarla al llegar; no hace falta enviarla antes. Si algo no te sale, escríbenos y te ayudamos.
 ```
 
 ---
@@ -34,10 +34,10 @@ Cuando termines, manda una captura a Jair o a Alannis. Si algo no te sale, escr�
 ```
 Recordatorio: el taller "Construye tu sitio web con IA" es el jueves 15 de octubre, a las [a completar], en [a completar].
 
-Hoy es el último día para mandarnos la captura de tu lista (node, localhost:3000, Copilot en modo Agent y tu imagen de referencia):
+Repasa tu lista (node, localhost:3000, Copilot en modo Agent y tu imagen de referencia) y ten lista una captura para enseñarla al llegar; no hace falta enviarnos nada antes:
 https://github.com/jairure16-lab/taller-web-boilerplate/blob/master/PREWORK.md
 
-Si algo no te sale, escríbenos hoy y lo resolvemos antes del jueves. No olvides tu laptop con cargador.
+Si algo no te sale, escríbenos y lo resolvemos antes del jueves. No olvides tu laptop con cargador.
 ```
 
 ---

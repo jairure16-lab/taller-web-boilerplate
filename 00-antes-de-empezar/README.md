@@ -42,8 +42,8 @@ La lista paso a paso, para Windows y Mac, está en
 4. Busca y guarda una **imagen de referencia** (Pinterest u otra fuente) del
    estilo visual que te gustaría para tu sitio. Es obligatoria: el agente te
    la va a pedir en el Paso 3.
-5. Envía una captura de pantalla a Jair o Alannis para confirmar que todo
-   corre.
+5. Guarda una captura de pantalla que muestre que todo corre, para
+   enseñarla al llegar al taller (no hace falta enviarla antes).
 
 Si algo no te funciona, no pasa nada: avisa antes del taller y Alannis te
 ayuda. Los problemas comunes están en

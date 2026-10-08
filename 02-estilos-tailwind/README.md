@@ -36,8 +36,8 @@ imagen de Pinterest u otra fuente con el estilo visual que quieres para tu
 sitio. Déjala en una carpeta que encuentres fácil (por ejemplo, el
 Escritorio). En el taller se la vas a adjuntar al agente.
 
-Por último, toma una captura de pantalla de tus 2 Tarjeta y envíala a Jair o
-Alannis, como indica [`../PREWORK.md`](../PREWORK.md).
+Por último, toma una captura de pantalla de tus 2 Tarjeta y guárdala para enseñarla al
+llegar al taller, como indica [`../PREWORK.md`](../PREWORK.md).
 
 ## Siguiente paso
 

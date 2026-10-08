@@ -5,7 +5,7 @@
 **Hora y lugar:** [a completar]
 **Duración:** 1 h 45 min · **Costo:** gratis · **Cupos:** 5
 
-Si haces esta lista antes del jueves, en sala vas a dedicar casi todo el tiempo a construir tu sitio. Si algo no te sale, no te preocupes: escríbele a Jair o a Alannis con la captura del error y te ayudamos antes del día. Si el problema persiste, el [plan B](PLAN_B.md) cubre el taller igual.
+Si haces esta lista antes del jueves, en sala vas a dedicar casi todo el tiempo a construir tu sitio. Si algo no te sale, no te preocupes: escríbele a Jair o a Alannis con la captura del error y te ayudamos. Si el problema persiste, el [plan B](PLAN_B.md) cubre el taller igual.
 
 Tiempo estimado: 45 a 60 minutos, casi todo es esperar descargas.
 
@@ -24,7 +24,7 @@ Marca cada punto cuando lo termines.
 - [ ] 5. `npm install` y `npm run dev` funcionando en localhost:3000
 - [ ] 6. Ejercicio de fundamentos (pasos 01 y 02) hecho
 - [ ] 7. Imagen de referencia guardada (obligatoria)
-- [ ] 8. Captura de pantalla de todo enviada a Jair o Alannis
+- [ ] 8. Captura de pantalla de todo lista para enseñarla al llegar al taller
 
 ---
 
@@ -106,7 +106,7 @@ El agente te va a pedir una imagen del estilo visual que quieres para tu sitio.
 
 Sin imagen no podemos arrancar la construcción: es el único punto que no se puede resolver en sala sin perder tiempo.
 
-## 8. Enviar la captura
+## 8. Deja lista la captura
 
 Toma **una captura de pantalla** que muestre a la vez:
 
@@ -115,7 +115,7 @@ Toma **una captura de pantalla** que muestre a la vez:
 - El panel de Copilot en modo **Agent**.
 - La imagen de referencia (puede ser en otra captura).
 
-Envíala por WhatsApp a Jair o a Alannis **a más tardar el martes 13 de octubre**. Así podemos ayudarte a tiempo si algo falta.
+No tienes que enviarla antes. Guárdala en tu laptop o en tu celular y enséñasela a Alannis cuando pase por tu mesa al llegar el jueves; así verifica en 1 minuto que todo está listo.
 
 ---
 
