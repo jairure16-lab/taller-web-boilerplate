@@ -20,7 +20,7 @@ Marca cada punto cuando lo termines.
 - [ ] 1. Node.js 20.9 o más reciente
 - [ ] 2. VS Code actualizado, con Copilot y modo Agent
 - [ ] 3. Cuenta de GitHub con Copilot Free activado y uso del mes revisado
-- [ ] 4. Repo clonado
+- [ ] 4. Repo descargado
 - [ ] 5. `npm install` y `npm run dev` funcionando en localhost:3000
 - [ ] 6. Ejercicio de fundamentos (pasos 01 y 02) hecho
 - [ ] 7. Imagen de referencia guardada (obligatoria)
@@ -56,19 +56,21 @@ Marca cada punto cuando lo termines.
 
 > Copilot Free tiene un cupo mensual limitado. Por eso en el taller pedimos pocas cosas y bien explicadas. No hagas pruebas largas con el agente antes del jueves.
 
-## 4. Clonar el repo
+## 4. Descargar el repo
 
 El repo del taller es: **github.com/jairure16-lab/taller-web-boilerplate**
 
-En la terminal, ve a la carpeta donde guardas tus proyectos y ejecuta:
+**Opción recomendada (sin Git):** entra al repo, pulsa el botón verde **Code** y luego **Download ZIP**. Descomprime en una carpeta corta y abre esa carpeta en VS Code (`Archivo > Abrir carpeta`).
+
+**Opción con Git** (si ya lo tienes): en la terminal, ve a la carpeta donde guardas tus proyectos y ejecuta:
 
 ```bash
 git clone https://github.com/jairure16-lab/taller-web-boilerplate.git
 cd taller-web-boilerplate
 ```
 
-- Si `git` no existe: en Windows, instala [Git for Windows](https://git-scm.com/download/win); en Mac, escribe `git --version` y acepta instalar las herramientas de desarrollo cuando te lo pida.
-- **Windows:** clona en una ruta corta y que **no** esté dentro de OneDrive, por ejemplo `C:\proyectos`. Las rutas largas y OneDrive dan problemas (ver [solución de problemas](SOLUCION_DE_PROBLEMAS.md#rutas-largas-y-onedrive)).
+- Si `git` no existe, usa la opción ZIP.
+- **Windows:** guarda el repo en una ruta corta y que **no** esté dentro de OneDrive, por ejemplo `C:\proyectos`. Las rutas largas y OneDrive dan problemas (ver [solución de problemas](SOLUCION_DE_PROBLEMAS.md#rutas-largas-y-onedrive)).
 - Abre la carpeta en VS Code: `code .` (o `Archivo > Abrir carpeta`).
 
 ## 5. Instalar y correr
