@@ -22,7 +22,7 @@ Marca cada punto cuando lo termines.
 - [ ] 3. Cuenta de GitHub con Copilot Free activado y uso del mes revisado
 - [ ] 4. Repo descargado
 - [ ] 5. `npm install` y `npm run dev` funcionando en localhost:3000
-- [ ] 6. Ejercicio de fundamentos (pasos 01 y 02) hecho
+- [ ] 6. Ejercicio de fundamentos (pasos 01 y 02): opcional
 - [ ] 7. Imagen de referencia guardada (obligatoria)
 - [ ] 8. Captura de pantalla de todo lista para enseñarla al llegar al taller
 
@@ -89,14 +89,14 @@ npm run dev
 - Para detenerlo: `Ctrl + C` en la terminal.
 - Si ves errores, revisa [SOLUCION_DE_PROBLEMAS.md](SOLUCION_DE_PROBLEMAS.md).
 
-## 6. Ejercicio de fundamentos (pasos 01 y 02)
+## 6. Ejercicio de fundamentos (pasos 01 y 02): opcional
 
-Estos dos pasos son **prework**, no se hacen en sala:
+No es obligatorio. Si quieres llegar con más base, hazlos antes; no se hacen en sala:
 
 1. Lee y haz el ejercicio de [`01-fundamentos-next/README.md`](01-fundamentos-next/README.md).
 2. Lee y haz el ejercicio de [`02-estilos-tailwind/README.md`](02-estilos-tailwind/README.md).
 
-**Criterio de "listo":** en `localhost:3000` se ven **dos tarjetas** (`Tarjeta`) con datos distintos, debajo del índice de pasos, y cada una tiene borde, esquinas redondeadas, espaciado interno y sombra. El índice original sigue ahí.
+**Si lo haces, "listo" es:** en `localhost:3000` se ven **dos tarjetas** (`Tarjeta`) con datos distintos, debajo del índice de pasos, y cada una tiene borde, esquinas redondeadas, espaciado interno y sombra. El índice original sigue ahí.
 
 Si no te sale a la primera, no pasa nada: manda la captura de lo que tienes y lo vemos.
 
