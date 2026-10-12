@@ -1,6 +1,6 @@
-# Agenda: 1 h 45 min (105 min)
+# Agenda: 1 h 45 min (105 min) dentro de la ventana 1:45 a 3:45 pm (15 min de colchón)
 
-**Fecha:** jueves 15 de octubre de 2026 · **Hora y lugar:** 1:45 pm a 3:30 pm, ADEN University Panamá, Salón Nro 2 · **Alumnos:** 5
+**Fecha:** jueves 15 de octubre de 2026 · **Hora y lugar:** 1:45 pm a 3:45 pm, ADEN University Panamá, Salón Nro 2 · **Alumnos:** 5
 
 Reparto: **Jair** lleva el contenido y habla al frente; **Alannis** lleva el soporte técnico y se mueve por las mesas.
 
