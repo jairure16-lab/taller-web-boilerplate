@@ -70,6 +70,8 @@ cd taller-web-boilerplate
 ```
 
 - Si `git` no existe, usa la opción ZIP.
+
+> **Aviso:** este repo puede cambiar antes del taller. Lo que descargas ahora sirve para dejar todo instalado y comprobar que funciona. El jueves, al llegar, descargarás el ZIP actualizado y correrás `npm install` y `npm run dev` otra vez (la segunda vez tarda segundos, porque ya tienes los paquetes en caché).
 - **Windows:** guarda el repo en una ruta corta y que **no** esté dentro de OneDrive, por ejemplo `C:\proyectos`. Las rutas largas y OneDrive dan problemas (ver [solución de problemas](SOLUCION_DE_PROBLEMAS.md#rutas-largas-y-onedrive)).
 - Abre la carpeta en VS Code: `code .` (o `Archivo > Abrir carpeta`).
 
