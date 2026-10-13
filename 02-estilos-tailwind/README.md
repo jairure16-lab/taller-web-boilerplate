@@ -1,6 +1,6 @@
-# Paso 2 — Estilos con Tailwind (PREWORK)
+# Paso 2 — Estilos con Tailwind (opcional)
 
-Este paso es un ejercicio **previo al taller**: hazlo en tu casa, no en vivo.
+Este paso es un ejercicio **opcional y previo al taller**: hazlo en tu casa si quieres entender mejor lo que va a construir la IA.
 
 ## Qué es Tailwind
 
@@ -20,7 +20,7 @@ al elemento HTML y cada clase hace una cosa puntual:
 [tailwindcss.com/docs](https://tailwindcss.com/docs): no hay que memorizarlas,
 se buscan cuando se necesitan.
 
-## Ejercicio (prework)
+## Ejercicio (opcional)
 
 Toma el componente `Tarjeta` del paso anterior y agrégale: un borde
 (`border`), esquinas redondeadas (`rounded-lg`), espaciado interno (`p-4`), y

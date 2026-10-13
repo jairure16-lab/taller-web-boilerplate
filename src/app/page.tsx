@@ -16,8 +16,8 @@ const pasos = [
   },
   {
     ruta: "03-ia-en-el-flujo",
-    titulo: "IA en el flujo de trabajo",
-    resumen: "Qué es el loop de un agente (leer, ejecutar, revisar, repetir) y cómo pedirle tareas.",
+    titulo: "Dirigir a la IA",
+    resumen: "Cómo dirigir a la IA: planear juntos, construir, comparar con tu referencia y sumar animaciones.",
   },
 ];
 

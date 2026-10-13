@@ -5,7 +5,7 @@
 **Hora y lugar:** 1:45 pm a 3:45 pm, ADEN University Panamá, Salón Nro 2
 **Duración:** 1 h 45 min · **Costo:** gratis · **Cupos:** 5
 
-Si haces esta lista antes del jueves, en sala vas a dedicar casi todo el tiempo a construir tu sitio. Si algo no te sale, no te preocupes: escríbele a Jair o a Alannis con la captura del error y te ayudamos. Si el problema persiste, el [plan B](PLAN_B.md) cubre el taller igual.
+Si haces esta lista antes del jueves, en sala vas a dedicar casi todo el tiempo a construir tu sitio. Si algo no te sale, no te preocupes: escríbele a Jair o a Alannis con la captura del error y te ayudamos. Si el problema persiste, hay un plan B para que el taller siga igual.
 
 Tiempo estimado: 45 a 60 minutos, casi todo es esperar descargas.
 
@@ -52,9 +52,9 @@ Marca cada punto cuando lo termines.
 2. Activa Copilot Free. Información oficial: [github.com/features/copilot](https://github.com/features/copilot). Desde ahí, o desde el menú de Copilot en VS Code, elige la opción para empezar con el plan gratuito. [verificar: el nombre exacto del botón puede cambiar]
 3. En VS Code inicia sesión con tu cuenta de GitHub (te lo pide al abrir Copilot por primera vez, o desde el icono de cuentas, abajo a la izquierda).
 4. **Revisa tu uso del mes:** en VS Code, haz clic en el icono de Copilot de la barra inferior derecha (o en el menú de Copilot de la barra superior). Ahí aparece lo que llevas usado del mes y cuándo se reinicia. [verificar: la ubicación exacta depende de tu versión de VS Code]
-5. Si ya gastaste casi todo tu cupo del mes, avísanos **antes** del jueves. No uses Copilot en otras cosas hasta el taller.
+5. Si ya gastaste casi todo tu cupo del mes, avísanos **antes** del jueves.
 
-> Copilot Free tiene un cupo mensual limitado. Por eso en el taller pedimos pocas cosas y bien explicadas. No hagas pruebas largas con el agente antes del jueves.
+> Copilot Free tiene un cupo mensual (créditos). En una prueba, un taller completo gastó cerca del 2 % del mes, así que no debería ser problema, pero revisa tu uso antes de venir.
 
 ## 4. Descargar el repo
 
@@ -125,11 +125,11 @@ No tienes que enviarla antes. Guárdala en tu laptop o en tu celular y enséñas
 
 ## Si no pudiste completar algo
 
-Escríbenos con la captura del error. Aunque llegues al taller con parte pendiente, hay un [plan B](PLAN_B.md), solo que te quedará menos tiempo para construir.
+Escríbenos con la captura del error. Aunque llegues al taller con parte pendiente, hay un plan B, solo que te quedará menos tiempo para construir.
 
 Al llegar al taller, trae tu **laptop con cargador**.
 
-Documentos relacionados: [Agenda](AGENDA.md) · [Rúbrica](RUBRICA.md) · [Solución de problemas](SOLUCION_DE_PROBLEMAS.md)
+Documentos relacionados: [Rúbrica](RUBRICA.md) · [Solución de problemas](SOLUCION_DE_PROBLEMAS.md)
 
 ---
 

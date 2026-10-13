@@ -1,16 +1,20 @@
-Quiero construir mi sitio web a partir de este repo. Tenemos 1 h 45 min en total y unos 45 minutos de construcción, así que sé eficiente: pocos mensajes y un paso a la vez. Responde siempre en español.
+Quiero construir mi sitio web a partir de este proyecto, con tu ayuda. Soy principiante y no sé de programación, así que explícame todo en palabras simples y sin tecnicismos. Responde siempre en español.
 
-PASO 1: ENTREVISTA (en UN solo mensaje)
-Antes de tocar código, hazme como máximo 4 preguntas, todas juntas en un único mensaje, para que yo las responda de una vez:
-1. ¿Para quién es el sitio y qué problema resuelve?
-2. ¿Cuáles son las 2 o 3 secciones que necesita? (máximo 3, esto es un taller corto)
-3. ¿Qué tono o estilo busco? (te adjunto una imagen de referencia)
-4. ¿Qué texto o nombre real quiero que aparezca? (si no sé, propón uno tú)
+Vamos a trabajar en 5 fases, una tras otra. Las reglas completas están en las instrucciones del proyecto; síguelas.
 
-Analiza mi imagen de referencia y dime en pocas líneas qué colores, tipografía y estructura ves. Si no puedes ver la imagen, dímelo y te la describo con texto.
+FASE 1, PLAN CONMIGO (empieza aquí)
+No escribas código todavía. Hazme UNA pregunta a la vez, y antes de cada una dime en una frase por qué la haces. Espera mi respuesta antes de la siguiente. Quiero que me preguntes: qué quiero construir y para quién, cuáles son las 2 o 3 secciones, el nombre y los textos, y el estilo. Te adjunto una imagen de referencia: dime qué colores, tipografía y estructura ves, y confirma conmigo si lo entendiste bien. Al final muéstrame el plan (secciones, estilo y archivos que vas a crear) y espera a que yo diga que sí.
 
-PASO 2: PLAN CORTO
-Con mis respuestas, dime en un solo mensaje el plan: qué secciones vas a crear y qué archivos vas a tocar. Si estoy de acuerdo, arranca. No me hagas más preguntas después de esto, salvo que un cambio sea grande (por ejemplo, borrar o reescribir un archivo existente); en ese caso pregúntame "¿qué archivo crees que hay que tocar?", espera mi respuesta, dime si acerté, y ahí ejecuta.
+FASE 2, CONSTRUCCIÓN
+Construye una sección a la vez, cada una en su propio archivo dentro de src/components/. Después de cada una dime qué archivo creaste y para qué sirve. No inventes precios, teléfonos ni datos: si faltan, pregúntame o pon un texto de ejemplo entre corchetes.
 
-PASO 3: CONSTRUCCIÓN
-Construye las secciones una por una. No instales dependencias nuevas: usa solo lo que ya está en el proyecto (Next.js + Tailwind), sin librerías de UI, iconos ni animación. No edites AGENTS.md. Antes de tocar código de Next, lee node_modules/next/dist/docs/ porque esta versión tiene cambios. Después de cada sección, explícame en una línea qué archivo tocaste, qué comando corriste, si algo falló y cómo lo corregiste, para que yo vea el loop completo. Termina verificando que el sitio corre en localhost:3000, aunque quede incompleto: que corra es más importante que que quede perfecto.
+FASE 3, MEJORA VISUAL
+Abre mi sitio en el navegador integrado, toma una captura, compárala con mi imagen de referencia y dime las 3 diferencias más importantes. Corrígelas y vuelve a comparar. Máximo 2 rondas. Si no puedes ver el navegador, avísame y yo te adjunto una captura.
+
+FASE 4, GALERÍA
+Abre localhost:3000/galeria, propónme 2 o 3 piezas animadas que combinen con mi estilo y explícame qué hace cada una. Agrégalas solo cuando yo elija.
+
+FASE 5, CIERRE
+Dame la lista de archivos que creaste o cambiaste y para qué sirve cada uno. Explícame en 3 frases qué falta para publicar mi sitio en internet, sin hacerlo.
+
+Reglas: no instales nada nuevo, no edites AGENTS.md, y lee node_modules/next/dist/docs/ antes de tocar código de Next. El sitio tiene que seguir corriendo en localhost:3000 en todo momento.

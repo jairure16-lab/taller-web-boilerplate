@@ -1,5 +1,7 @@
 # Paso 0 — Antes de empezar
 
+¿Una palabra que no conoces? Mira el [glosario](GLOSARIO.md): explica cada término con una comparación de la vida diaria.
+
 ## Qué es un `.md`
 
 Este archivo que estás leyendo es Markdown (`.md`): texto plano con símbolos
@@ -38,7 +40,7 @@ La lista paso a paso, para Windows y Mac, está en
 
 1. Instala Node.js, VS Code y la extensión de Copilot.
 2. Clona este repo y corre `npm install` adentro (pesa unos 300 MB).
-3. Haz los ejercicios de los pasos 01 y 02 (son prework, no se hacen en vivo).
+3. Los ejercicios de los pasos 01 y 02 son opcionales: si los haces antes, entenderás mejor lo que construye la IA.
 4. Busca y guarda una **imagen de referencia** (Pinterest u otra fuente) del
    estilo visual que te gustaría para tu sitio. Es obligatoria: el agente te
    la va a pedir en el Paso 3.

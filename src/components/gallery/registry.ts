@@ -1,11 +1,12 @@
 import type { ComponentType } from "react";
+import BotonBrillante from "./boton-brillante";
 
 export type GalleryItem = {
-  /** Identificador único en minúsculas con guiones, p. ej. "boton-brillante". */
+  /** Identificador único en minúsculas con guiones, igual al nombre del archivo. */
   id: string;
   /** Nombre visible para el alumno. */
   name: string;
-  /** Categoría, p. ej. "botones", "tarjetas", "fondos". */
+  /** Categoría: botones, tarjetas, fondos, texto, scroll, ... */
   category: string;
   /** Una o dos frases: qué hace y cuándo usarlo. */
   description: string;
@@ -17,5 +18,15 @@ export type GalleryItem = {
   component: ComponentType;
 };
 
-// Alannis agrega aquí una entrada por componente. Ver GALERIA_CONTRATO.md.
-export const registry: GalleryItem[] = [];
+// Una entrada por pieza. Ver README.md y COMPONENTES.md.
+export const registry: GalleryItem[] = [
+  {
+    id: "boton-brillante",
+    name: "Botón brillante",
+    category: "botones",
+    description: "Botón con un brillo que lo cruza al pasar el cursor y que se hunde al presionarlo.",
+    license: "MIT",
+    source: "Autoría propia (Ratio)",
+    component: BotonBrillante,
+  },
+];

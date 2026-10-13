@@ -1,77 +1,47 @@
-# Taller Web + IA
+# Taller: pensar como quien dirige una IA
 
-Plantilla para un taller práctico: construir un sitio web real en vivo,
-usando Next.js, Tailwind y un agente de IA (GitHub Copilot en modo Agent)
-como copiloto. Nada de teoría abstracta: cada paso se hace corriendo
-comandos y viendo el resultado en el navegador.
+Aquí construyes tu propio sitio web dirigiendo a una inteligencia artificial (GitHub Copilot). **No necesitas saber programar.** Al final tienes un sitio corriendo en tu laptop.
 
-## Stack
+## Cómo correrlo
 
-- [Next.js](https://nextjs.org) (App Router) + TypeScript
-- [Tailwind CSS](https://tailwindcss.com) para estilos
-- Sin dependencias de pago, sin API keys
-
-## Instalación
-
-Requiere [Node.js](https://nodejs.org) 20.9 o más reciente (Next.js 16 no
-corre en Node 18). `npm install` descarga unos 300 MB, así que hazlo con
-buen wifi y antes del día del taller.
+Necesitas [Node.js](https://nodejs.org) 20.9 o más reciente. Abre esta carpeta en VS Code, abre la terminal (en Windows usa "Símbolo del sistema", `cmd`) y escribe:
 
 ```bash
 npm install
 npm run dev
 ```
 
-Abre [http://localhost:3000](http://localhost:3000): vas a ver el índice de
-pasos del taller.
+`npm install` baja las piezas del proyecto (unos 300 MB, una sola vez, mejor con buen wifi). `npm run dev` prende tu sitio. Ábrelo en [http://localhost:3000](http://localhost:3000). Para apagarlo, `Ctrl + C`.
 
-La lista completa de preparación (Windows y Mac) está en
-[`PREWORK.md`](PREWORK.md).
+La lista completa de preparación está en [`PREWORK.md`](PREWORK.md).
 
-## Estructura del repo
+## Qué ves en la columna izquierda
 
 ```
-00-antes-de-empezar/   → qué es un README, un .md, una skill, qué instalar
-01-fundamentos-next/   → páginas y componentes (PREWORK)
-02-estilos-tailwind/   → cómo cambiar el diseño (PREWORK)
-03-ia-en-el-flujo/     → el loop de un agente IA y cómo pedirle tareas (EN VIVO)
-src/app/               → el código real del sitio, se construye en el taller
+00-antes-de-empezar/   → glosario: qué significa cada palabra, sin tecnicismos
+01-fundamentos-next/   → ejercicio opcional: páginas y componentes
+02-estilos-tailwind/   → ejercicio opcional: cómo cambiar el diseño
+03-ia-en-el-flujo/     → el texto que pegas en Copilot y cómo usar sus botones (EN VIVO)
+src/                   → tu sitio. Cada sección que construye la IA aparece como un archivo en src/components/
+PREWORK.md             → qué dejar listo antes del taller
+RUBRICA.md             → qué cuenta como éxito
+SOLUCION_DE_PROBLEMAS.md → errores comunes
 ```
 
-Cada carpeta numerada tiene su propio `README.md`. Léelo antes de tocar el
-código de ese paso: ahí está la explicación del concepto, no solo el "qué
-hacer".
+## El taller en 5 pasos
 
-## Cómo seguir el taller
+1. **Plan:** la IA te hace preguntas, una a la vez, y acuerdan qué construir.
+2. **Construcción:** crea tu sitio una sección a la vez y te explica cada archivo.
+3. **Mejora visual:** compara tu sitio con tu imagen de referencia y lo corrige.
+4. **Galería:** eliges piezas animadas de `localhost:3000/galeria` y la IA las agrega.
+5. **Cierre:** resumen de lo que se construyó y qué falta para publicarlo.
 
-1. Antes del taller (prework): lee `00-antes-de-empezar/README.md` y haz los
-   ejercicios de los pasos 01 y 02 en tu casa. Sigue [`PREWORK.md`](PREWORK.md).
-2. El día del taller: el Paso 03 se hace en vivo, con el agente de Copilot.
-3. La página de inicio (`src/app/page.tsx`) es el punto de partida: un
-   índice de los pasos. Se reemplaza con tu sitio real durante la
-   construcción.
+Los pasos 00, 01 y 02 se pueden hacer **antes** del taller y no ocupan tiempo en sala. El paso 03 es en vivo.
 
-## Agenda del día del taller (1 h 45 min)
+## Qué cuenta como éxito
 
-| Minutos | Bloque | Qué pasa |
-|---|---|---|
-| 0-10 | Llegada y verificación | Alannis pasa por las mesas; autoevaluación inicial |
-| 10-25 | Demostración | Jair muestra en vivo cómo dirigir al agente |
-| 25-40 | Entrevista + referencia | El agente te entrevista; adjuntas tu imagen de referencia |
-| 40-85 | Construcción individual | Alto de 2 min a los 60; componentes de la galería desde el min 65 |
-| 85-95 | Muro de sitios | Cada quien enseña lo suyo y sube captura (con permiso) |
-| 95-105 | Cierre | Autoevaluación final, encuesta y captura de `sunday-agents-control` |
+Que tu sitio **corra en `localhost:3000`**, tenga 2 o más secciones, se parezca a tu referencia y puedas explicar qué archivo tocó la IA y por qué. Detalle en [`RUBRICA.md`](RUBRICA.md). No hace falta que esté terminado.
 
-El detalle por bloque (quién hace qué) está en [`AGENDA.md`](AGENDA.md).
-Los pasos 00, 01 y 02 se hacen **antes** del taller y no ocupan tiempo en
-sala.
+## Si algo no funciona
 
-## Otros documentos
-
-- [`PREWORK.md`](PREWORK.md): checklist de preparación.
-- [`RUBRICA.md`](RUBRICA.md): qué cuenta como éxito (que corra en localhost,
-  aunque quede incompleto).
-- [`PLAN_B.md`](PLAN_B.md): qué hacer sin wifi, sin cuenta o sin cuota.
-- [`SOLUCION_DE_PROBLEMAS.md`](SOLUCION_DE_PROBLEMAS.md): errores comunes.
-- [`GALERIA_CONTRATO.md`](GALERIA_CONTRATO.md): formato de la galería de
-  componentes.
+Mira [`SOLUCION_DE_PROBLEMAS.md`](SOLUCION_DE_PROBLEMAS.md). Si no se resuelve, escríbenos con una captura del error: Jair y Alannis te ayudan.

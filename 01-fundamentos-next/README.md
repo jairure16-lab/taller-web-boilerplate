@@ -1,6 +1,6 @@
-# Paso 1 — Fundamentos de Next.js (PREWORK)
+# Paso 1 — Fundamentos de Next.js (opcional)
 
-Este paso es un ejercicio **previo al taller**: hazlo en tu casa, no en vivo.
+Este paso es un ejercicio **opcional y previo al taller**: hazlo en tu casa si quieres entender mejor lo que va a construir la IA.
 
 ## Correr el proyecto
 
@@ -38,7 +38,7 @@ adentro de la función `Home`). Si lo declaras adentro, React se queja
 ("Cannot create components during render") porque lo recrea en cada
 render. Es un error común al copiar este patrón por primera vez.
 
-## Ejercicio (prework)
+## Ejercicio (opcional)
 
 Agrega un componente `Tarjeta` (afuera de `Home`, igual que `Saludo` arriba)
 que reciba un título y una descripción, y muéstralo dos veces en la página de

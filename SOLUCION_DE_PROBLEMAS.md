@@ -75,7 +75,7 @@ Los errores más comunes del taller. Si ninguno aplica, toma captura del mensaje
 5. **Configuración.** En los ajustes de VS Code, busca "agent" y confirma que el modo Agent no esté desactivado. [verificar: el nombre exacto del ajuste puede cambiar entre versiones]
 6. Si tu organización o la universidad restringe Copilot, usa una cuenta personal de GitHub.
 
-Si nada funciona, usa el [plan B](PLAN_B.md): pareja, o dictas y el instructor ejecuta.
+Si nada funciona, usa el plan B: pareja, o dictas y el instructor ejecuta.
 
 ## Rutas largas y OneDrive
 
@@ -95,4 +95,4 @@ Si nada funciona, usa el [plan B](PLAN_B.md): pareja, o dictas y el instructor e
 
 ---
 
-Documentos relacionados: [Prework](PREWORK.md) · [Plan B](PLAN_B.md)
+Documentos relacionados: [Prework](PREWORK.md)

@@ -26,16 +26,16 @@ Las respuestas válidas pueden apoyarse en lo que viste en el chat del agente y 
 
 - **Logrado:** los 4 criterios.
 - **En camino:** corre en localhost y tiene una sección; falta estilo o la explicación. Es un buen resultado para un primer taller.
-- **Con apoyo:** el sitio no corre o el agente quedó bloqueado. Ver [PLAN_B.md](PLAN_B.md) y [SOLUCION_DE_PROBLEMAS.md](SOLUCION_DE_PROBLEMAS.md). Igual participas en el muro de sitios con lo que tengas.
+- **Con apoyo:** el sitio no corre o el agente quedó bloqueado. Ver [SOLUCION_DE_PROBLEMAS.md](SOLUCION_DE_PROBLEMAS.md). Igual participas en el muro de sitios con lo que tengas.
 
 ## Lo que NO se evalúa
 
 - Que el sitio esté terminado o pulido.
 - Que sepas programar de antemano.
-- Cuántas cosas le pediste al agente (de hecho, pedir poco y claro es mejor: ahorra requests de Copilot Free).
+- Cuántas cosas le pediste al agente (pedir claro y completo rinde más que pedir mucho).
 
 ## Qué se mide del taller en sí
 
-La confianza para dirigir una IA, con la misma pregunta antes y después. Ver [ENCUESTA.md](ENCUESTA.md).
+La confianza para dirigir una IA, con la misma pregunta antes y después.
 
-Documentos relacionados: [Agenda](AGENDA.md) · [Prework](PREWORK.md)
+Documentos relacionados: [Prework](PREWORK.md)
