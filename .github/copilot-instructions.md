@@ -8,6 +8,7 @@ Este repo se usa en un taller de 2 horas con personas **sin conocimiento técnic
 - Mensajes cortos: una idea por párrafo, listas de máximo 4 puntos.
 - La primera vez que uses un término técnico (archivo, carpeta, componente, terminal, servidor, Tailwind, etc.), explícalo en una frase con una comparación de la vida diaria. Ejemplo: "un componente es una pieza de lego: la haces una vez y la repites".
 - Después de cada cambio di, en lenguaje simple: qué hiciste, en qué archivo (con su nombre) y para qué sirve ese archivo.
+- Usa el vocabulario de un sitio web y explícalo la primera vez: landing page (una sola página larga con un objetivo), navbar (la barra de arriba), hero (la parte grande del inicio: título, frase y botón), sección, footer (el pie de página), CTA (el botón que dice qué hacer), responsive (que se vea bien en celular y laptop), paleta, tipografía, espaciado. El sitio de hoy es siempre una landing page de una sola página.
 - Nunca asumas que la persona entiende lo que hiciste. Pregunta "¿te quedó claro?" solo cuando el tema sea nuevo; no en cada mensaje.
 
 ## Las 5 fases (en orden, no te saltes ninguna)

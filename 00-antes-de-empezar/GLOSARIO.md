@@ -41,3 +41,18 @@ No hay que memorizar nada. Vuelve aquí cuando oigas una palabra que no conoces.
 - **Vercel:** la empresa que renta un espacio siempre encendido en internet para que tu sitio esté disponible las 24 horas. Es el local comercial donde exhibes tu sitio.
 - **Dominio:** el nombre o dirección de tu sitio, como `micafe.com`. Es como la dirección de tu local: sin ella nadie te encuentra. Se renta por año.
 - **Publicar (o "desplegar"):** llevar tu sitio de tu laptop a Vercel para que cualquiera lo vea.
+
+## Partes y tipos de un sitio
+
+- **Landing page:** una sola página larga con un objetivo: que quien llega haga algo, como reservar o escribirte. Es como un volante o un folleto. Es lo que construyes hoy.
+- **Sitio de varias páginas:** varias páginas enlazadas desde un menú (inicio, servicios, contacto). Es como un libro con capítulos.
+- **Navbar:** la barra de arriba con el logo y los enlaces. Es el índice del sitio.
+- **Hero:** la parte grande que ves primero al entrar: un título, una frase corta y un botón.
+- **Sección:** cada bloque que aparece al bajar por la página (menú, servicios, reseñas).
+- **Footer:** el pie de página, abajo del todo: contacto, redes sociales y derechos.
+- **CTA (llamada a la acción):** el botón que le dice a quien llega qué hacer: "Reservar", "Escríbenos".
+- **Responsive:** que el sitio se vea bien en laptop, tablet y celular.
+- **Paleta:** los colores del sitio. Dos o tres bien elegidos se ven mejor que diez.
+- **Tipografía:** el tipo de letra. Una para los títulos y otra para los textos.
+- **Espaciado:** el aire entre las cosas. Un sitio con aire se ve ordenado.
+- **Layout:** cómo se acomodan las cosas: en columnas, en filas o en cuadrícula.
