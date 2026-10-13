@@ -3,7 +3,7 @@
 **Taller:** Construye tu sitio web con IA
 **Fecha:** jueves 15 de octubre de 2026
 **Hora y lugar:** 1:45 pm a 3:45 pm, ADEN University Panamá, Salón Nro 2
-**Duración:** 1 h 45 min · **Costo:** gratis · **Cupos:** 5
+**Duración:** 2 h · **Costo:** gratis · **Cupos:** 5
 
 Si haces esta lista antes del jueves, en sala vas a dedicar casi todo el tiempo a construir tu sitio. Si algo no te sale, no te preocupes: escríbele a Jair o a Alannis con la captura del error y te ayudamos. Si el problema persiste, hay un plan B para que el taller siga igual.
 

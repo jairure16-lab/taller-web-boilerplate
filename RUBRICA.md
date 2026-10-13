@@ -1,6 +1,6 @@
 # Rúbrica de éxito
 
-El taller dura 1 h 45 min, y buena parte es entender cómo se dirige a una IA. Por eso la medida de éxito es sencilla y alcanzable.
+El taller dura 2 h, y buena parte es entender cómo se dirige a una IA. Por eso la medida de éxito es sencilla y alcanzable.
 
 > **"Completo" NO es requisito.** El éxito es que **tu sitio corra en localhost**, aunque quede incompleto. Un sitio de dos secciones sencillas y bien dirigido vale más que uno grande que no entiendes.
 
