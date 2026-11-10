@@ -2,8 +2,8 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Ratio UI Kit",
-  description: "Galería de componentes de Ratio",
+  title: "Café Esperanza",
+  description: "Un buen café. Una pausa para ti.",
 };
 
 // Sin next/font/google: el salón puede no tener internet.
